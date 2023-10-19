@@ -1,0 +1,808 @@
+{
+    "sententious": {
+        "definitions": {
+            "1": "Given to moralizing in a pompous or affected manner.",
+            "2": "Terse and energetic in expression; pithy."
+        },
+        "sentences": {
+            "1": "The professor's lecture was so “sententious” that many students found it hard to take him seriously.",
+            "2": "Her “sententious” remarks were meant to be profound, but they often came off as pretentious."
+        },
+        "etymology": "The word 'sententious' comes from the Latin word 'sententiosus', derived from 'sententia', meaning 'opinion' or 'maxim'. 'Sententia' itself is related to 'sentire', which means 'to feel' or 'to think'. Over time, the word evolved to describe statements that are moralizing or aphoristic in nature."
+    },
+    "sequester": {
+        "definitions": {
+            "1": "Isolate or hide away (someone or something).",
+            "2": "Take legal possession of (assets) until a debt has been paid or other claims have been met.",
+            "3": "Cause to undergo sequestration, especially the action of taking forcible possession of something; confiscation."
+        },
+        "sentences": {
+            "1": "The jury was “sequestered” to avoid any outside influence during the high-profile trial.",
+            "2": "The government decided to “sequester” the assets of the fraudulent company until all investigations were complete.",
+            "3": "To protect the endangered species, a large area of the forest was “sequestered” from any human activity."
+        },
+        "etymology": "The word 'sequester' originates from the Latin word 'sequestrare', which means 'to hand over or trust to another'. It is derived from 'sequester', which refers to a trustee or mediator. The term evolved to mean 'to set aside, isolate' and later took on legal connotations related to the confiscation or holding of assets."
+    },
+    "abjure": {
+        "definitions": {
+            "1": "To solemnly renounce (a belief, cause, or claim).",
+            "2": "To reject or disavow a formerly held belief, usually under pressure."
+        },
+        "sentences": {
+            "1": "After being presented with new evidence, the scientist decided to “abjure” his previous theory.",
+            "2": "Under pressure from her family, she “abjured” her former religious beliefs.",
+            "3": "To become a citizen of the new country, he had to “abjure” any allegiance to his homeland."
+        },
+        "etymology": "The word 'abjure' comes from the Latin 'abjurare', which means 'to deny on oath'. It's a combination of 'ab-' (away) + 'jurare' (to swear), which is related to 'jus' (law or right). So, 'abjure' can be thought of as 'swearing away' or renouncing something."
+    },
+    "abnegate": {
+        "definitions": {
+            "1": "To renounce or reject (something desired or valuable).",
+            "2": "To deny oneself (some rights, conveniences, etc.); reject for oneself."
+        },
+        "sentences": {
+            "1": "In order to achieve spiritual enlightenment, the monk chose to “abnegate” all worldly pleasures.",
+            "2": "She decided to “abnegate” her claim to the family inheritance to maintain peace among her siblings."
+        },
+        "etymology": "The word 'abnegate' comes from the Latin 'abnegatus', the past participle of 'abnegare', which means 'to refuse' or 'to deny'. It's a combination of 'ab-' (away from) + 'negare' (to deny). Thus, 'abnegate' essentially means 'to deny away' or to renounce."
+    },
+    "braggadocio": {
+        "definitions": {
+            "1": "Empty boasting; bragging.",
+            "2": "A boaster; a braggart."
+        },
+        "sentences": {
+            "1": "His tales of adventure were nothing more than “braggadocio”, as he had never left his hometown.",
+            "2": "While he was a talented athlete, his “braggadocio” turned off many of his teammates."
+        },
+        "etymology": "The word 'braggadocio' originates from 'Braggadocchio', a boastful character in Edmund Spenser's epic poem 'The Faerie Queene' (1590). The name 'Braggadocchio' is derived from 'braggart', which means 'a person who boasts about their achievements or possessions', and the Italian suffix '-occhio', which can be a pejorative."
+    },
+    "bravado": {
+        "definitions": {
+            "1": "A bold manner or a show of boldness intended to impress or intimidate.",
+            "2": "False bravery; a boastful display of courage."
+        },
+        "sentences": {
+            "1": "His “bravado” was evident when he confidently walked into the room, challenging anyone to dispute his claims.",
+            "2": "Despite her outward “bravado”, she was genuinely nervous about the upcoming competition."
+        },
+        "etymology": "The word 'bravado' comes from the Spanish 'bravada', which means 'swagger, bravado'. This, in turn, is derived from 'bravo', meaning 'brave' or 'bold', but with a connotation of 'wild' or 'savage'. The term was adopted into English in the late 16th century."
+    },
+    "bravura": {
+        "definitions": {
+            "1": "Great technical skill and brilliance shown in a performance or activity.",
+            "2": "A display of daring or brilliant performance."
+        },
+        "sentences": {
+            "1": "The pianist's “bravura” performance of the complex concerto earned him a standing ovation.",
+            "2": "Her “bravura” display in the final moments of the game clinched the victory for her team."
+        },
+        "etymology": "The word 'bravura' is borrowed from Italian, where it means 'bravery' or 'skill'. It is derived from 'bravo', which means 'brave' or 'bold'. In a musical context, 'bravura' often refers to a piece or passage requiring exceptional agility and technical skill in the performer."
+    },
+    "capitulate": {
+        "definitions": {
+            "1": "Cease to resist an opponent or an unwelcome demand; surrender.",
+            "2": "To give in or come to an agreement in a dispute after initially resisting."
+        },
+        "sentences": {
+            "1": "After a prolonged siege, the city finally “capitulated” to the invading forces.",
+            "2": "Despite his initial reluctance, he “capitulated” and signed the agreement."
+        },
+        "etymology": "The word 'capitulate' comes from the Latin 'capitulatus', the past participle of 'capitulare', which means 'to draw up in chapters or under headings'. This is derived from 'capitulum', a diminutive of 'caput', meaning 'head'. Historically, 'capitulations' were agreements or treaties that were drawn up under specific headings or chapters. Over time, the term evolved to mean 'to surrender' or 'to come to terms'."
+    },
+    "canon": {
+        "definitions": {
+            "1": "A general law, rule, principle, or criterion by which something is judged.",
+            "2": "A collection or list of sacred books accepted as genuine.",
+            "3": "The works of a particular author or artist that are recognized as genuine.",
+            "4": "A member of the clergy who is on the staff of a cathedral, especially one who is a member of the chapter."
+        },
+        "sentences": {
+            "1": "The principles of good storytelling serve as the “canon” for writers everywhere.",
+            "2": "The books of the New Testament are part of the Christian “canon”.",
+            "3": "Shakespeare's plays are an essential part of the literary “canon”.",
+            "4": "He was appointed as a “canon” at the local cathedral."
+        },
+        "etymology": "The word 'canon' comes from the Latin 'canon', meaning 'rule' or 'standard', which is derived from the Greek 'kanon', meaning 'measuring rod' or 'rule'. Over time, the term evolved to refer to a standard of judgment, a list of accepted books, and also a title for certain clerical positions."
+    },
+    "callow": {
+        "definitions": {
+            "1": "Especially of a young person, inexperienced and immature."
+        },
+        "sentences": {
+            "1": "Despite his academic achievements, he was still a “callow” youth when it came to real-world experience.",
+            "2": "The “callow” interns made several mistakes, but they were eager to learn from them."
+        },
+        "etymology": "The word 'callow' originates from Old English 'calu', which means 'bald'. Historically, it referred to birds that were unfledged, lacking mature feathers. Over time, the term evolved to describe someone who is young and inexperienced, much like a young bird not yet ready to fly."
+    },
+    "reticent": {
+        "definitions": {
+            "1": "Not revealing one's thoughts or feelings readily.",
+            "2": "Reserved or restrained in expression, presentation, or appearance."
+        },
+        "sentences": {
+            "1": "She was “reticent” about sharing her personal life with her colleagues.",
+            "2": "Despite his achievements, he remained “reticent” and humble in his demeanor."
+        },
+        "etymology": "The word 'reticent' comes from the Latin 'reticentia', meaning 'silence'. This is derived from 'reticēre', which means 'to keep silent'. The term 'reticēre' is a combination of 're-' (an intensifying prefix) + 'tacēre' ('to be silent'). Over time, 'reticent' evolved to describe a person's reluctance to speak or share their feelings or thoughts."
+    },
+    "oblique": {
+        "definitions": {
+            "1": "Neither parallel nor at a right angle to a specified or implied line; slanting.",
+            "2": "Not explicit or done in a direct way; indirect.",
+            "3": "Relating to or denoting several muscles, especially of the abdomen, that are slanted in orientation."
+        },
+        "sentences": {
+            "1": "The artist used “oblique” lines to create a sense of movement in the painting.",
+            "2": "His “oblique” reference to the incident left many wondering what he truly meant.",
+            "3": "The “oblique” muscles play a crucial role in core stability and rotation of the torso."
+        },
+        "etymology": "The word 'oblique' is derived from the Latin 'obliquus', which means 'slanting'. 'Obliquus' is a combination of 'ob-' (a prefix meaning 'towards') + 'licinus' (bent or curved). Over time, 'oblique' came to describe something that is slanted, indirect, or not straightforward."
+    },
+    "congruent": {
+        "definitions": {
+            "1": "In agreement or harmony.",
+            "2": "Of figures, identical in form; coinciding exactly when superimposed."
+        },
+        "sentences": {
+            "1": "Their goals and values were “congruent”, leading to a successful partnership.",
+            "2": "In geometry, two triangles are “congruent” if their corresponding sides and angles are equal."
+        },
+        "etymology": "The word 'congruent' comes from the Latin 'congruens', which is the present participle of 'congruere', meaning 'to come together' or 'to agree'. 'Congruere' is derived from 'com-' (together) + 'gruere' (to agree). Over time, 'congruent' evolved to describe things that are in harmony or identical in form."
+    },
+    "conjecture": {
+        "definitions": {
+            "1": "An opinion or conclusion formed on the basis of incomplete information.",
+            "2": "A guess or theory formed without sufficient evidence."
+        },
+        "sentences": {
+            "1": "Without concrete evidence, any explanation remains mere “conjecture”.",
+            "2": "The detective refused to make any “conjectures” until all the facts were gathered."
+        },
+        "etymology": "The word 'conjecture' comes from the Latin 'conjectura', which means 'the interpretation of signs or omens'. It is derived from 'conicere', which means 'to throw together'. 'Conicere' is a combination of 'con-' (together) + 'iacere' (to throw). Over time, 'conjecture' evolved to describe a guess or theory formed by piecing together incomplete information."
+    },
+    "serendipity": {
+        "definitions": {
+            "1": "The occurrence and development of events by chance in a happy or beneficial way."
+        },
+        "sentences": {
+            "1": "Discovering the solution to the complex problem purely by accident was a stroke of “serendipity”.",
+            "2": "She met her future husband through pure “serendipity” when she missed her train."
+        },
+        "etymology": "Coined by Horace Walpole in 1754, inspired by 'The Three Princes of Serendip', a Persian fairy tale in which the protagonists make discoveries by accidents and sagacity."
+    },
+    "serpentine": {
+        "definitions": {
+            "1": "Of or like a serpent or snake.",
+            "2": "Having a winding course, as a road; sinuous."
+        },
+        "sentences": {
+            "1": "The dancer moved with a “serpentine” grace, reminiscent of a snake.",
+            "2": "The river had a “serpentine” path through the valley, winding back and forth."
+        },
+        "etymology": "The word 'serpentine' comes from the Latin 'serpentīnus', which means 'of or resembling a serpent'. It is derived from 'serpens', the Latin word for 'snake'."
+    },
+    "servile": {
+        "definitions": {
+            "1": "Having or showing an excessive willingness to serve or please others.",
+            "2": "Of or characteristic of a slave or slaves."
+        },
+        "sentences": {
+            "1": "His “servile” attitude was evident when he agreed to every demand without question.",
+            "2": "The history book detailed the “servile” conditions under which the workers lived during that era."
+        },
+        "etymology": "The word 'servile' comes from the Latin 'servilis', which means 'of a slave' or 'slavish'. It is derived from 'servus', the Latin word for 'slave'."
+    },
+    "fortuitous": {
+        "definitions": {
+            "1": "Happening by accident or chance rather than design.",
+            "2": "Fortunate or lucky."
+        },
+        "sentences": {
+            "1": "The “fortuitous” discovery of the old manuscript in the attic shed light on the family's history.",
+            "2": "It was “fortuitous” that she had her umbrella on the day of the unexpected downpour."
+        },
+        "etymology": "The word 'fortuitous' comes from the Latin 'fortuitus', which means 'by chance'. It is derived from 'fortuna', the Latin word for 'chance' or 'luck'."
+    },
+    "Epicurean": {
+        "definitions": {
+            "1": "Relating to or in accordance with the teachings of the ancient Greek philosopher Epicurus, especially concerning the pursuit of pleasure and avoidance of pain as the main goals in life.",
+            "2": "A person devoted to sensual enjoyment, especially that derived from fine food and drink."
+        },
+        "sentences": {
+            "1": "His “Epicurean” philosophy led him to seek out the finest pleasures in life, from gourmet meals to luxurious vacations.",
+            "2": "As an “Epicurean”, she always knew the best restaurants and wine bars in the city."
+        },
+        "etymology": "The term 'Epicurean' is derived from 'Epicurus', the ancient Greek philosopher who taught that pleasure is the greatest good."
+    },
+    "Epigram": {
+        "definitions": {
+            "1": "A pithy saying or remark expressing an idea in a clever and amusing way.",
+            "2": "A short poem, especially a satirical one, having a witty or ingenious ending."
+        },
+        "sentences": {
+            "1": "His speech was filled with witty “epigrams” that had the audience laughing and thinking at the same time.",
+            "2": "The “epigram” inscribed on the monument was both poignant and humorous."
+        },
+        "etymology": "The word 'epigram' comes from the Greek 'epigramma', meaning 'inscription'. It is derived from 'epi-' (upon) + 'graphein' (to write)."
+    },
+    "Avow": {
+        "definitions": {
+            "1": "Assert or confess openly.",
+            "2": "Admit openly and bluntly; make no bones about."
+        },
+        "sentences": {
+            "1": "He was quick to “avow” his love for her in front of their friends.",
+            "2": "She would “avow” her mistakes without trying to make excuses."
+        },
+        "etymology": "The word 'avow' comes from the Old French 'avouer', which means 'acknowledge, accept, recognize', based on Latin 'advocare' meaning 'to call (to one's aid)'."
+    },   
+    "Avuncular": {
+        "definitions": {
+            "1": "Kind and friendly toward a younger or less experienced person.",
+            "2": "Of or relating to an uncle."
+        },
+        "sentences": {
+            "1": "His “avuncular” manner made him popular among his junior colleagues.",
+            "2": "She had an “avuncular” affection for her nephew, treating him as if he were her own son."
+        },
+        "etymology": "The term 'avuncular' is derived from the Latin 'avunculus', which means 'maternal uncle'."
+    },   
+    "Cajole": {
+        "definitions": {
+            "1": "Persuade someone to do something by sustained coaxing or flattery.",
+            "2": "Influence or urge by gentle urging or flattering."
+        },
+        "sentences": {
+            "1": "She tried to “cajole” her friend into accompanying her to the party.",
+            "2": "He would often “cajole” his younger brother into doing his chores for him."
+        },
+        "etymology": "The word 'cajole' comes from the French 'cajoler', which means 'to chatter like a bird in a cage, to coax, wheedle, soothe'."
+    },
+    "Calliope": {
+        "definitions": {
+            "1": "A musical instrument resembling an organ and consisting of a series of whistles sounded by steam or compressed air.",
+            "2": "One of the Muses in Greek mythology, presiding over eloquence and epic poetry."
+        },
+        "sentences": {
+            "1": "The carnival's “calliope” played a cheerful tune that could be heard from blocks away.",
+            "2": "In ancient times, poets would invoke “Calliope” for inspiration when composing epic works."
+        },
+        "etymology": "The term 'Calliope' for the musical instrument is from the loud sound it makes, reminiscent of the piercing voice of the Muse. For the Muse, 'Calliope' is derived from Greek 'Kalliope', from 'kallos' (beauty) + 'ops' (voice)."
+    },
+    "Manna": {
+        "definitions": {
+            "1": "An edible substance that, according to the Bible, God provided for the Israelites during their travels in the desert.",
+            "2": "Any unexpected benefit or advantage."
+        },
+        "sentences": {
+            "1": "The Israelites depended on “manna” from heaven for sustenance during their journey.",
+            "2": "The unexpected tax refund was like “manna” for the struggling family."
+        },
+        "etymology": "The term 'manna' comes from the Hebrew 'man', which means 'manna'. It's possibly derived from 'man hu', a question meaning 'What is it?'."
+    },
+    "Mar": {
+        "definitions": {
+            "1": "Impair the appearance of; disfigure.",
+            "2": "Impair the quality of; spoil."
+        },
+        "sentences": {
+            "1": "A single scratch can “mar” the surface of a polished table.",
+            "2": "His rude comments “marred” an otherwise enjoyable evening."
+        },
+        "etymology": "The word 'mar' originates from Old English 'merran' which means 'to obstruct, hinder'."
+    },   
+    "Martial": {
+        "definitions": {
+            "1": "Of or appropriate to war; warlike.",
+            "2": "Relating to or characteristic of soldiers or armed forces."
+        },
+        "sentences": {
+            "1": "The general had a “martial” bearing, always standing tall and commanding respect.",
+            "2": "The parade had a “martial” theme, with many participants dressed in military uniforms."
+        },
+        "etymology": "The term 'martial' is derived from Latin 'Martialis', from 'Mars', the Roman god of war."
+    },
+    "Ruminate": {
+        "definitions": {
+            "1": "Think deeply about something.",
+            "2": "Chew the cud (used of ruminant animals)."
+        },
+        "sentences": {
+            "1": "She would often sit by the window and “ruminate” on her life choices.",
+            "2": "Cows “ruminate” their food, chewing it multiple times before swallowing."
+        },
+        "etymology": "The word 'ruminate' comes from the Latin 'ruminare', which means 'to chew the cud', from 'rumen' (the first stomach of a ruminant)."
+    },  
+    "Ruse": {
+        "definitions": {
+            "1": "An action intended to deceive someone; a trick."
+        },
+        "sentences": {
+            "1": "The spy used a clever “ruse” to distract the guards and sneak into the building."
+        },
+        "etymology": "The term 'ruse' comes from the Old French 'ruser', which means 'to dodge' or 'outwit'."
+    },    
+    "Rustic": {
+        "definitions": {
+            "1": "Relating to the countryside; rural.",
+            "2": "Constructed or made in a plain and simple fashion, in particular."
+        },
+        "sentences": {
+            "1": "The cabin had a “rustic” charm, with its log walls and stone fireplace.",
+            "2": "The “rustic” furniture was made of unpolished wood and had a handmade feel."
+        },
+        "etymology": "The word 'rustic' is derived from the Latin 'rusticus', from 'rus' which means 'the country'."
+    },
+    "Munificent": {
+        "definitions": {
+            "1": "More generous than is usual or necessary.",
+            "2": "Characterized by great generosity."
+        },
+        "sentences": {
+            "1": "The “munificent” donation from the philanthropist helped fund the new hospital wing.",
+            "2": "She was known for her “munificent” nature, always giving more than was expected."
+        },
+        "etymology": "The term 'munificent' is derived from the Latin 'munificus', from 'munus' which means 'gift' + 'facere' which means 'to make'."
+    },   
+    "Myriad": {
+        "definitions": {
+            "1": "A countless or extremely great number.",
+            "2": "Countless or innumerable."
+        },
+        "sentences": {
+            "1": "The night sky was lit up by a “myriad” of stars.",
+            "2": "She faced a “myriad” of challenges while starting her own business."
+        },
+        "etymology": "The word 'myriad' comes from the Greek 'myrias' (myriados), meaning 'ten thousand'."
+    }, 
+    "Deleterious": {
+        "definitions": {
+            "1": "Causing harm or damage."
+        },
+        "sentences": {
+            "1": "Smoking has a “deleterious” effect on lung health."
+        },
+        "etymology": "The term 'deleterious' is derived from the Greek 'dēlētērios', from 'dēlētēr' which means 'destroyer'."
+    },  
+    "Delimit": {
+        "definitions": {
+            "1": "Determine the limits or boundaries of."
+        },
+        "sentences": {
+            "1": "The river was used to “delimit” the boundaries between the two countries."
+        },
+        "etymology": "The word 'delimit' is derived from Latin 'delimitare', from 'de-' + 'limes' which means 'boundary, limit'."
+    },  
+    "Delineate": {
+        "definitions": {
+            "1": "Describe or portray (something) precisely.",
+            "2": "Indicate the exact position of (a border or boundary)."
+        },
+        "sentences": {
+            "1": "The artist used fine strokes to “delineate” the details of the portrait.",
+            "2": "The treaty will “delineate” the territorial waters of each country."
+        },
+        "etymology": "The term 'delineate' comes from the Latin 'delineatus', from 'de-' + 'lineare' (to make straight), from 'linea' which means 'line'."
+    },   
+    "Stature": {
+        "definitions": {
+            "1": "A person's natural height.",
+            "2": "Importance or reputation gained by ability or achievement."
+        },
+        "sentences": {
+            "1": "Despite his short “stature”, he was a formidable opponent on the basketball court.",
+            "2": "Her “stature” in the scientific community grew after her groundbreaking research was published."
+        },
+        "etymology": "The word 'stature' is derived from the Latin 'statura', from 'stare' which means 'to stand'."
+    },
+    "Staunch": {
+        "definitions": {
+            "1": "Loyal and committed in attitude.",
+            "2": "Of strong or firm construction."
+        },
+        "sentences": {
+            "1": "He was a “staunch” supporter of the cause, never wavering in his commitment.",
+            "2": "The “staunch” walls of the fortress had withstood many attacks."
+        },
+        "etymology": "The term 'staunch' comes from the Old French 'estanche', meaning 'watertight', from 'estanchier' which means 'to stop the flow'."
+    },   
+    "Stealth": {
+        "definitions": {
+            "1": "Cautious and surreptitious action or movement.",
+            "2": "The quality of being furtive or unobtrusive."
+        },
+        "sentences": {
+            "1": "The cat approached its prey with “stealth”, moving silently and unnoticed.",
+            "2": "The spy's “stealth” allowed him to infiltrate the enemy base without being detected."
+        },
+        "etymology": "The word 'stealth' is derived from the Old English 'stǣlþ', which means 'the act of stealing'."
+    },
+    "Oblivion": {
+        "definitions": {
+            "1": "The state of being unaware or unconscious of what is happening.",
+            "2": "The state of being forgotten, especially by the public."
+        },
+        "sentences": {
+            "1": "He drank himself into “oblivion” every night to forget his troubles.",
+            "2": "Many once-famous actors fade into “oblivion” as time passes."
+        },
+        "etymology": "The term 'oblivion' is derived from the Latin 'oblivio', which means 'forgetfulness', from 'oblivisci' meaning 'to forget'."
+    },
+    "Obsequious": {
+        "definitions": {
+            "1": "Obedient or attentive to an excessive or servile degree.",
+            "2": "Characterized by or showing servile complaisance or deference."
+        },
+        "sentences": {
+            "1": "His “obsequious” behavior towards his boss was obvious to everyone in the office.",
+            "2": "She disliked the “obsequious” manner of the waiter, who complimented her at every opportunity."
+        },
+        "etymology": "The word 'obsequious' comes from the Latin 'obsequiosus', from 'obsequium' meaning 'compliance', from 'obsequi' which means 'to comply with'."
+    },  
+    "Obtuse": {
+        "definitions": {
+            "1": "Annoyingly insensitive or slow to understand.",
+            "2": "(of an angle) more than 90° and less than 180°."
+        },
+        "sentences": {
+            "1": "He was being deliberately “obtuse”, pretending not to understand the point.",
+            "2": "In geometry, an “obtuse” angle is one that measures more than 90 degrees but less than 180 degrees."
+        },
+        "etymology": "The term 'obtuse' is derived from the Latin 'obtusus', which means 'blunted', from the verb 'obtundere' meaning 'to blunt'."
+    },   
+    "Juggernaut": {
+        "definitions": {
+            "1": "A huge, powerful, and overwhelming force or institution.",
+            "2": "A large, heavy vehicle, especially an articulated lorry."
+        },
+        "sentences": {
+            "1": "The tech company became a “juggernaut” in the industry, dominating all its competitors.",
+            "2": "The “juggernaut” roared down the highway, causing smaller vehicles to give way."
+        },
+        "etymology": "The word 'juggernaut' comes from the Sanskrit 'Jagannātha', which means 'lord of the world', a form of the Hindu god Vishnu. It refers to a large wagon carrying an image of the god in procession, under the wheels of which devotees were believed (erroneously) to throw themselves to be crushed."
+    },
+    "Junket": {
+        "definitions": {
+            "1": "A dish of sweetened and flavored curds of milk.",
+            "2": "An extravagant trip or celebration, in particular one enjoyed by government officials at public expense."
+        },
+        "sentences": {
+            "1": "She prepared a delicious “junket” dessert for the family gathering.",
+            "2": "The senator's “junket” to Europe raised eyebrows and questions about its necessity."
+        },
+        "etymology": "The term 'junket' originally referred to the dessert, from Old French 'jonquette', a kind of rush (on which the dessert was served). The extended sense of 'a pleasure trip' is from the traditionally elaborate feasts accompanying such occasions."
+    }, 
+    "Junta": {
+        "definitions": {
+            "1": "A military or political group that rules a country after taking power by force.",
+            "2": "A deliberative or administrative council in Spain or Portugal."
+        },
+        "sentences": {
+            "1": "The military “junta” took control of the government after a swift coup d'état.",
+            "2": "The local “junta” met to discuss the town's upcoming festivities."
+        },
+        "etymology": "The word 'junta' is derived from Spanish, meaning 'a meeting, especially a legislative one', from Latin 'iuncta', feminine past participle of 'iungere' meaning 'to join'."
+    }, 
+    "Dubious": {
+        "definitions": {
+            "1": "Hesitating or doubting.",
+            "2": "Not to be relied upon; suspect."
+        },
+        "sentences": {
+            "1": "She gave him a “dubious” look when he claimed to have climbed Mount Everest.",
+            "2": "The authenticity of the artifact is “dubious” and requires further examination."
+        },
+        "etymology": "The term 'dubious' comes from the Latin 'dubiosus', from 'dubium' meaning 'doubt', from 'dubare' which means 'to hesitate'."
+    },  
+    "Dudgeon": {
+        "definitions": {
+            "1": "A feeling of offense or deep resentment."
+        },
+        "sentences": {
+            "1": "He left the meeting in high “dudgeon” after his proposal was rejected."
+        },
+        "etymology": "The origin of 'dudgeon' is uncertain, but it might be related to the Welsh 'dygen' which means 'malice' or 'anger'."
+    },
+    "Duplicity": {
+        "definitions": {
+            "1": "Deceitfulness in speech or conduct, as by speaking or acting in two different ways to different people concerning the same matter.",
+            "2": "Double-dealing."
+        },
+        "sentences": {
+            "1": "His “duplicity” was exposed when the two women he had been deceiving met each other.",
+            "2": "She was tired of the “duplicity” and games in the world of corporate politics."
+        },
+        "etymology": "The word 'duplicity' comes from the Latin 'duplic-, duplex' which means 'double' + '-ity'."
+    },
+    "Pagan": {
+        "definitions": {
+            "1": "A person holding religious beliefs other than those of the main world religions.",
+            "2": "Relating to ancient or traditional pagans or their beliefs."
+        },
+        "sentences": {
+            "1": "The ancient Romans considered the Germanic tribes to be “pagan” because they did not follow the Roman gods.",
+            "2": "The festival had “pagan” origins, celebrating the harvest and changing of seasons."
+        },
+        "etymology": "The term 'pagan' is derived from the Latin 'paganus', which originally meant 'villager, rustic', and later came to mean 'non-participant, civilian'. It was used to refer to non-Christians."
+    }, 
+    "Palliate": {
+        "definitions": {
+            "1": "Make (a disease or its symptoms) less severe without removing the cause.",
+            "2": "Disguise the seriousness or gravity of (an offense)."
+        },
+        "sentences": {
+            "1": "The medicine did not cure the disease but did “palliate” its symptoms.",
+            "2": "His attempt to “palliate” his actions only made the situation worse."
+        },
+        "etymology": "The word 'palliate' comes from the Latin 'palliare', which means 'to cloak or cover', from 'pallium' meaning 'cloak'."
+    },   
+    "Undulate": {
+        "definitions": {
+            "1": "Move or go with a smooth up-and-down motion.",
+            "2": "Having a wavy surface or edge."
+        },
+        "sentences": {
+            "1": "The dancer's ribbon would “undulate” gracefully with her movements.",
+            "2": "The “undulate” edges of the leaf gave it a unique appearance."
+        },
+        "etymology": "The term 'undulate' is derived from the Latin 'undulatus', from 'undula' meaning 'a small wave', from 'unda' which means 'wave'."
+    },   
+    "Unimpeachable": {
+        "definitions": {
+            "1": "Not able to be doubted, questioned, or criticized; entirely trustworthy."
+        },
+        "sentences": {
+            "1": "Her reputation was “unimpeachable”, and everyone trusted her judgment."
+        },
+        "etymology": "The word 'unimpeachable' is formed from the prefix 'un-' meaning 'not' + 'impeachable', from 'impeach', which comes from the Old French 'empecher' meaning 'to prevent'."
+    },
+    "Unremitting": {
+        "definitions": {
+            "1": "Never relaxing or slackening; incessant."
+        },
+        "sentences": {
+            "1": "The “unremitting” noise from the construction site made it hard to concentrate."
+        },
+        "etymology": "The term 'unremitting' is formed from the prefix 'un-' meaning 'not' + 'remitting', from 'remit', which comes from the Latin 'remittere' meaning 'send back, slacken'."
+    },
+    "Discreet": {
+        "definitions": {
+            "1": "Careful and prudent in one's speech or actions, especially to keep something confidential or to avoid embarrassment.",
+            "2": "Intentionally unobtrusive."
+        },
+        "sentences": {
+            "1": "She was always “discreet” when discussing personal matters.",
+            "2": "The security cameras were “discreet”, hidden from obvious view."
+        },
+        "etymology": "The word 'discreet' comes from the Old French 'discret', from Latin 'discretus' meaning 'separate, distinct', which is the past participle of 'discernere' meaning 'to separate, distinguish'."
+    },  
+    "Disparage": {
+        "definitions": {
+            "1": "Regard or represent as being of little worth.",
+            "2": "To belittle or undervalue."
+        },
+        "sentences": {
+            "1": "It's not fair to “disparage” someone based on rumors or gossip.",
+            "2": "He would often “disparage” his own achievements, despite his many successes."
+        },
+        "etymology": "The term 'disparage' comes from the Old French 'desparagier', which means 'to marry someone of unequal rank', from 'des-' (away, off) + 'parage' (equal rank)."
+    },
+    "Disparate": {
+        "definitions": {
+            "1": "Essentially different in kind; not able to be compared.",
+            "2": "Containing elements very different from one another."
+        },
+        "sentences": {
+            "1": "The two cultures were so “disparate” that it was hard to find any similarities.",
+            "2": "The anthology included a “disparate” collection of stories from various genres."
+        },
+        "etymology": "The word 'disparate' comes from the Latin 'disparatus', which is the past participle of 'disparare', from 'dis-' (apart) + 'parare' (prepare, make)."
+    },
+    "Obfuscate": {
+        "definitions": {
+            "1": "Render obscure, unclear, or unintelligible.",
+            "2": "Bewilder or perplex."
+        },
+        "sentences": {
+            "1": "The legal document was filled with jargon that seemed to “obfuscate” its true meaning.",
+            "2": "The professor's explanation only served to “obfuscate” the topic further."
+        },
+        "etymology": "The term 'obfuscate' is derived from the Latin 'obfuscare', from 'ob-' (over) + 'fuscus' which means 'dark'."
+    },
+    "Oblique": {
+        "definitions": {
+            "1": "Not explicit or done in a direct way; indirect.",
+            "2": "Slanting; inclined."
+        },
+        "sentences": {
+            "1": "His “oblique” reference to the incident left many wondering what he truly meant.",
+            "2": "The sun cast an “oblique” shadow as it began to set."
+        },
+        "etymology": "The word 'oblique' comes from the Latin 'obliquus', which means 'slanting, inclined'."
+    },
+    "Obliterate": {
+        "definitions": {
+            "1": "Destroy utterly; wipe out.",
+            "2": "Cause to become invisible or indistinct; blot out."
+        },
+        "sentences": {
+            "1": "The tornado “obliterated” the small town, leaving nothing standing.",
+            "2": "Time seemed to “obliterate” all memories of the traumatic event."
+        },
+        "etymology": "The term 'obliterate' is derived from the Latin 'obliterare', from 'ob-' (against) + 'littera' (letter, script)."
+    },
+    "Waggish": {
+        "definitions": {
+            "1": "Humorous in a playful, mischievous, or facetious manner."
+        },
+        "sentences": {
+            "1": "His “waggish” remarks always brought laughter to the room."
+        },
+        "etymology": "The word 'waggish' comes from 'wag', possibly from the Middle Low German 'waggen' which means 'to shake'."
+    },
+    "Waif": {
+        "definitions": {
+            "1": "A homeless and helpless person, especially a neglected or abandoned child.",
+            "2": "An item found and claimed, especially one found on the beach."
+        },
+        "sentences": {
+            "1": "The novel tells the story of a “waif” who rises to greatness.",
+            "2": "The beachcomber discovered several “waifs” after the storm, including a beautifully crafted wooden box."
+        },
+        "etymology": "The term 'waif' is from the Old Northern French 'waif', which means 'stray beast', based on the Norse 'veif', which means 'to swing, turn, or wander'."
+    },
+    "Wanderlust": {
+        "definitions": {
+            "1": "A strong desire to travel."
+        },
+        "sentences": {
+            "1": "Filled with “wanderlust”, she dreamt of traveling the world and exploring new places."
+        },
+        "etymology": "The word 'wanderlust' is a borrowing from German, where 'Wander' means 'hike, walk' and 'Lust' means 'desire'."
+    },
+    
+    "Catharsis": {
+        "definitions": {
+            "1": "The process of releasing, and thereby providing relief from, strong or repressed emotions.",
+            "2": "Purification or purgation of emotions, especially pity and fear, through art."
+        },
+        "sentences": {
+            "1": "Writing in her journal provided a form of “catharsis” during difficult times.",
+            "2": "Many find “catharsis” in tragic plays and movies, feeling cleansed of their own sorrows."
+        },
+        "etymology": "The term 'catharsis' is derived from the Greek 'katharsis', which means 'purification' or 'cleansing'."
+    },   
+    "Catholic": {
+        "definitions": {
+            "1": "Including a wide variety of things; all-embracing.",
+            "2": "Of the Roman Catholic faith."
+        },
+        "sentences": {
+            "1": "Her taste in music was quite “catholic”, ranging from classical to heavy metal.",
+            "2": "The “Catholic” Church has a rich history spanning over two millennia."
+        },
+        "etymology": "The word 'catholic' comes from the Greek 'katholikos', which means 'universal', from 'kata-' (in respect to) + 'holos' (whole)."
+    },
+    "Caustic": {
+        "definitions": {
+            "1": "Able to burn or corrode organic tissue by chemical action.",
+            "2": "Sarcastic in a scathing and bitter way."
+        },
+        "sentences": {
+            "1": "The “caustic” substance burned through the metal, leaving a hole.",
+            "2": "His “caustic” remarks were hurtful and not appreciated."
+        },
+        "etymology": "The term 'caustic' is derived from the Latin 'causticus', from Greek 'kaustikos', from 'kaustos', which means 'combustible', from 'kaiein' meaning 'to burn'."
+    },
+    "Deposition": {
+        "definitions": {
+            "1": "The action of deposing someone, especially a monarch.",
+            "2": "The process of giving sworn evidence."
+        },
+        "sentences": {
+            "1": "The “deposition” of the king led to a new era of governance.",
+            "2": "The lawyer took the witness's “deposition” before the trial began."
+        },
+        "etymology": "The word 'deposition' comes from the Latin 'depositio', from the verb 'deponere' which means 'to put down'."
+    },
+    "Ascendancy": {
+        "definitions": {
+            "1": "Occupying a position of dominant power or influence.",
+            "2": "The process of rising to a position of dominance."
+        },
+        "sentences": {
+            "1": "The company gained “ascendancy” over its competitors through innovation.",
+            "2": "The “ascendancy” of the movement was evident in the growing number of its followers."
+        },
+        "etymology": "The term 'ascendancy' is derived from the Latin 'ascendere', which means 'to ascend', from 'ad-' (to) + 'scandere' (to climb)."
+    },
+    "Ascetic": {
+        "definitions": {
+            "1": "Characterized by severe self-discipline and abstention from all forms of indulgence, typically for religious reasons.",
+            "2": "A person who practices severe self-discipline and abstention."
+        },
+        "sentences": {
+            "1": "The monk led an “ascetic” lifestyle, abstaining from worldly pleasures.",
+            "2": "As an “ascetic”, she devoted her life to meditation and self-discipline."
+        },
+        "etymology": "The word 'ascetic' comes from the Greek 'asketikos', which means 'rigorously self-disciplined', from 'askesis' meaning 'exercise, training'."
+    },
+    "Askew": {
+        "definitions": {
+            "1": "Not in a straight or level position.",
+            "2": "Wrong; awry."
+        },
+        "sentences": {
+            "1": "The picture was hanging “askew” on the wall.",
+            "2": "Something seemed “askew” when the normally punctual person was late."
+        },
+        "etymology": "The term 'askew' is of unknown origin, possibly from a Scandinavian source."
+    },
+    "Aptitude": {
+        "definitions": {
+            "1": "A natural ability to do something.",
+            "2": "Suitability or fitness."
+        },
+        "sentences": {
+            "1": "Her “aptitude” for mathematics was evident from a young age.",
+            "2": "The test is designed to measure the student's “aptitude” for learning languages."
+        },
+        "etymology": "The word 'aptitude' comes from the Latin 'aptitudo', from 'aptus' which means 'fit, suitable'."
+    },
+    "Arbiter": {
+        "definitions": {
+            "1": "A person who settles a dispute or has ultimate authority in a matter.",
+            "2": "A person whose views or actions have great influence over trends in social behavior."
+        },
+        "sentences": {
+            "1": "The judge acted as the “arbiter” in the legal dispute.",
+            "2": "The fashion critic was considered the “arbiter” of style."
+        },
+        "etymology": "The term 'arbiter' is derived from the Latin 'arbiter', which means 'judge, supreme ruler', from 'ad-' (to) + 'bitere' (to go)."
+    },
+    "Arcane": {
+        "definitions": {
+            "1": "Understood by few; mysterious or secret.",
+            "2": "Requiring secret or mysterious knowledge."
+        },
+        "sentences": {
+            "1": "The professor had a collection of “arcane” texts on ancient civilizations.",
+            "2": "The ritual was “arcane”, known only to the initiated."
+        },
+        "etymology": "The word 'arcane' comes from the Latin 'arcanus', which means 'secret, hidden', from 'arcere' meaning 'to shut up, enclose'."
+    },  
+    "Bevy": {
+        "definitions": {
+            "1": "A large group of people or things of a particular kind.",
+            "2": "A group of birds, especially quail, that are together as a group."
+        },
+        "sentences": {
+            "1": "A “bevy” of fans gathered outside the concert hall.",
+            "2": "The hunter spotted a “bevy” of quail in the field."
+        },
+        "etymology": "The term 'bevy' is of unknown origin, possibly from an Old French word."
+    },
+    "Bibliophile": {
+        "definitions": {
+            "1": "A person who collects or has a great love of books."
+        },
+        "sentences": {
+            "1": "As a “bibliophile”, her home was filled with shelves of books on every topic imaginable."
+        },
+        "etymology": "The word 'bibliophile' comes from the Greek 'biblio-', which means 'book', + '-phile', which means 'lover of'."
+    },
+    "Bicameral": {
+        "definitions": {
+            "1": "Having two branches or chambers.",
+            "2": "Relating to a legislative body with two chambers."
+        },
+        "sentences": {
+            "1": "The United States Congress is “bicameral”, consisting of the Senate and the House of Representatives.",
+            "2": "The “bicameral” system allows for a more balanced representation of the people."
+        },
+        "etymology": "The term 'bicameral' is derived from the Latin 'bi-', which means 'two', + 'camera', which means 'chamber'."
+    }
+     
+    
+}
